@@ -32,5 +32,19 @@ It’s all about transforming raw data into valuable, accessible knowledge!
 
 **Borough Insights:** Brooklyn and Queens have the highest arrest counts, which may reflect population size and crime rates.
 
-**Arrest Precincts: **Insights into precinct-level data can help identify regions with higher arrest frequencies and potential areas for intervention.
+**Arrest Precincts:** Insights into precinct-level data can help identify regions with higher arrest frequencies and potential areas for intervention.
+
+![image](https://github.com/user-attachments/assets/12a64cec-d482-4882-885b-bd82b61f8f76)
+
+![image](https://github.com/user-attachments/assets/6ba3e30a-3572-4282-9cf5-2363f0edc3cc)
+
+![image](https://github.com/user-attachments/assets/41991149-fd23-4486-aebb-44461f5c99a3)
+
+![image](https://github.com/user-attachments/assets/5bc6e638-0e60-4132-a147-8582fe449259)
+
+![image](https://github.com/user-attachments/assets/b276a63d-550f-4ffa-9847-19a57ee69c1f)
+
+
+
+
 
