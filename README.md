@@ -1,7 +1,7 @@
 # NYC-Arrests-Data-Analysis-and-Visualization
 
 
-Welcome to my project where I dive into the NYPD Arrests Data, sourced from the New York City Open Data platform (NYPD Arrests Data - Historic). This repository showcases my work with both historic and year-to-date datasets, and I’ve used a variety of techniques and tools to uncover insights from this rich dataset.
+<br Welcome to my project where I dive into the NYPD Arrests Data, sourced from the New York City Open Data platform (NYPD Arrests Data - Historic). This repository showcases my work with both historic and year-to-date datasets, and I’ve used a variety of techniques and tools to uncover insights from this rich dataset.  />
 
 Here’s a quick rundown of the tools and techniques I’ve used:
 
