@@ -21,10 +21,16 @@ It’s all about transforming raw data into valuable, accessible knowledge!
 ## **Insights from NYC Arrests Data:**
 
 **Geospatial Analysis:** High arrest concentrations in Manhattan and certain boroughs; indicates potential high crime areas or population density.
+
 **Age Group**: Majority of arrests are in the 25-44 age group, highlighting trends among working-age adults.
+
 **Gender Distribution:** Significant skew toward male arrests, suggesting a gender-based disparity.
+
 **Race Breakdown:** Higher arrests within Black and White Hispanic groups, indicating racial disparities.
+
 **Time Trends:** Arrests show peaks on specific days, useful for identifying patterns linked to events or enforcement actions.
+
 **Borough Insights:** Brooklyn and Queens have the highest arrest counts, which may reflect population size and crime rates.
+
 **Arrest Precincts: **Insights into precinct-level data can help identify regions with higher arrest frequencies and potential areas for intervention.
 
